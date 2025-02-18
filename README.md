@@ -3,9 +3,10 @@
 [![SQLite](https://img.shields.io/badge/SQLite-3-lightgrey?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Basic-orange?logo=html5&logoColor=white)](https://developer.mozilla.org/ko/docs/Learn/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Optional-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+
 # 게시판 Bulletin Board
 
-> **Django**를 이용한 게시판 프로젝트입니다. 사용자 회원가입, 로그인, 글 작성/수정/삭제, 목록/상세 보기 기능 사용이 가능합니다.
+> **Django**를 이용한 게시판 프로젝트입니다. 회원가입, 로그인, 글 작성/수정/삭제, 목록/상세 보기 기능 사용이 가능합니다.
 
 <br/>
 
@@ -13,27 +14,27 @@
 
 - **로딩 화면**  
   - 게시판과 로그인 창으로 갈 수 있는 페이지  
-  - <img src="./image/loading.png" alt="로딩 화면 샘플" width="300"/>
+  <img src="./image/loading.png" alt="로딩 화면 샘플" width="400"/>
 
 - **메인 페이지**  
   - 게시글 목록 테이블, “글 작성” 버튼  
-  - <img src="./image/main.png" alt="메인 페이지 샘플" width="300"/>
+  <img src="./image/main.png" alt="메인 페이지 샘플" width="400"/>
 
 - **게시글 작성**
   - 게시글 작성 페이지
-  - <img src="./image/createpost.png" alt="게시글 생성 샘플" width="300"/>
+  <img src="./image/createpost.png" alt="게시글 생성 샘플" width="400"/>
    
 - **게시글 상세 보기**  
   - 게시글 내용, 작성자, 작성일, 수정/삭제 버튼  
-  - <img src="./image/detail.png" alt="게시글 상세 보기 샘플" width="300"/>
+  <img src="./image/detail.png" alt="게시글 상세 보기 샘플" width="400"/>
 
 - **로그인/회원가입 페이지**  
   - 사용자 입력 폼 및 에러 메시지 표시  
-  - <img src="./image/login.png" alt="로그인 페이지 샘플" width="300"/> <img src="./image/createaccount.png" alt="계정생성 페이지 샘플" width="300"/>
+  <img src="./image/login.png" alt="로그인 페이지 샘플" width="400"/> <img src="./image/createaccount.png" alt="계정생성 페이지 샘플" width="400"/>
 
 - **비밀번호 암호화**
   - 비밀번호 암호화 과정을 거침
-  - <img src="./image/admin.png" alt="어드민 샘플" width="300"/>
+  <img src="./image/admin.png" alt="어드민 샘플" width="400"/>
 
 
 
