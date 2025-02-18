@@ -130,8 +130,7 @@
    ```bash
    pip install django
    ```
-   - 필요에 따라 `pip install -r requirements.txt` 로 일괄 설치할 수도 있음
-
+   
 2. **데이터베이스 마이그레이션**  
    ```bash
    python manage.py makemigrations
