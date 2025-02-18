@@ -30,10 +30,10 @@
 
 - **로그인/회원가입 페이지**  
   - 사용자 아이디 비밀번호 입력 폼
-  <div style="display:">
-    <img src="./image/login.png" alt="로그인 페이지 샘플" width="400"/>
-    <img src="./image/createaccount.png" alt="계정생성 페이지 샘플" width="400"/>
-  </div>
+<div style="display:">
+  <img src="./image/login.png" alt="로그인 페이지 샘플" width="400"/>
+  <img src="./image/createaccount.png" alt="계정생성 페이지 샘플" width="400"/>
+</div>
 
 - **비밀번호 암호화**
   - 비밀번호 암호화 과정을 거침
