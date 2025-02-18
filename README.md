@@ -4,7 +4,7 @@
 [![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Basic-orange?logo=html5&logoColor=white)](https://developer.mozilla.org/ko/docs/Learn/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Optional-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 
-# 게시판 Bulletin Board
+# 게시판 TalkSpace
 
 > **Django**를 이용한 게시판 프로젝트입니다. 회원가입, 로그인, 글 작성/수정/삭제, 목록/상세 보기 기능 사용이 가능합니다.
 
